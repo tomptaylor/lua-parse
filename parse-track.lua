@@ -6,3 +6,4 @@ end
 for n, w in ipairs(words) do
     print(n .. ": " .. w)
 end
+print ('end')
